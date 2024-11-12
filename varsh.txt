@@ -6,4 +6,8 @@ CSE branch
 CSE branch
 from Bldea collage
 Vijayapur
+<<<<<<< HEAD
 ba01133 (added)
+=======
+>>>>>>> ba01133 (added)
+Hello
