@@ -1,6 +1,6 @@
 Im in Git lab
 1 Hello there
 2 Hey there
-3
-4
-5
+3 CS
+4 Lab
+5 Class
