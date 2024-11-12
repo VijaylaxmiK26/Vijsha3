@@ -1,5 +1,10 @@
 Im in Git lab
 1 Hello there
 2 Hey there
+ HEAD
 3
-4
+3 CS
+4 Lab
+5 Class
+ 9c3db67 (Fifth commit)
+his
